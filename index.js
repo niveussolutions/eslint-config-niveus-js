@@ -12,8 +12,6 @@ module.exports = {
       ecmaVersion: "latest",
       sourceType: "module",
     },
-    
-    plugins: ["react","jest"],
     "settings": {
       "react": {
         "version": "detect" 
